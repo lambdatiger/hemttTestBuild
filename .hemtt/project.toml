@@ -1,0 +1,15 @@
+name = "Test preprocessor"
+author = "Lambda.Tiger"
+prefix = "lmd_tst"
+mainprefix = "z"
+
+[files]
+exclude = [
+    "hemtt.exe",
+    "LICENSE",
+    ".vscode/*",
+    "dev/*",
+]
+
+[version]
+git_hash = 0
