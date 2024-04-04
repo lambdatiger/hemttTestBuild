@@ -1,0 +1,12 @@
+@*
+*.zip
+release/*
+releases/*
+.vscode/*
+hemtt
+hemtt*.exe
+.hemttout
+*.pbo
+sqfvm.exe
+ArmaScriptCompiler.exe
+*.sqfc

@@ -1,4 +1,0 @@
-*.exe
-.hemttout\*
-.vscode\*
-hemtt.exe
